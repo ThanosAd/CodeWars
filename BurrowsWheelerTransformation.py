@@ -1,3 +1,6 @@
+# Code for 'Burrows-Wheeler-Transformation' Kata - 4 Kyu
+# https://www.codewars.com/kata/54ce4c6804fcc440a1000ecb
+
 def encode(message):
     
     rotations = []
