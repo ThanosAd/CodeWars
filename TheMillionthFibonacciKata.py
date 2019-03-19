@@ -1,4 +1,4 @@
-# Code For The Millionth Fibonacci Kata - 3 Kyu
+# Code For 'The Millionth Fibonacci' Kata - 3 Kyu
 # https://www.codewars.com/kata/53d40c1e2f13e331fc000c26
 
 def matrixMultiplication2x2(a,b):
