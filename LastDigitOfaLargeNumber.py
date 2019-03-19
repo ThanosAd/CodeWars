@@ -1,3 +1,6 @@
+# Code For 'Last digit of a large number' Kata - 5 Kyu
+# https://www.codewars.com/kata/5511b2f550906349a70004e1
+
 def last_digit(a, b):
     
     result=1
